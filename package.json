@@ -1,0 +1,14 @@
+{
+  "name": "autocomplete",
+  "version": "1.0.0",
+  "description": "Given a list of words, indexes them for autocomplete. Implemented using a directed acyclic word graph.",
+  "main": "autocomplete.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gurchet Rai",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
